@@ -578,7 +578,7 @@ display: block;
 }
 
 .banner_area .banner_inner .overlay {
-  background: url(../Images/people.jpg) no-repeat scroll center center;
+  background: url(Images/people.jpg) no-repeat scroll center center;
   position: absolute;
   left: 0;
   right: 0;
