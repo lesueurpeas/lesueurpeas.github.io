@@ -430,7 +430,7 @@ button:focus {
 ============================================================================================ */
 .home_banner_area {
   position: relative;
-  z-index: 1;
+  z-index: -1;
   min-height: 500px;
 }
 
