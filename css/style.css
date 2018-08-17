@@ -4157,8 +4157,8 @@ margin-right: auto;
 	margin-left:auto;
 	margin-right:auto;
 	font-size: 10px;
-	line-height: 0px;
-	margin-top: 5px;
+	line-height: -3px;
+	margin-top: 15px;
 }
 .credits a {
 	color:#5E9753;
