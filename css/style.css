@@ -4086,7 +4086,7 @@ margin-right: auto;
   padding-top: 50px;
 	font-size: 10px;
 	line-height: 10px;
-	text-align: center;
+	
 }
 
 .footer-bottom .footer-text a {
@@ -4152,7 +4152,14 @@ margin-right: auto;
 		margin-right: 3px;
 	} 
 }
-	
+.credits{
+	text-align: center;
+	margin-left:auto;
+	margin-right:auto;
+}
+.credits a {
+	color:#5E9753;
+}
 /*---------------------------------------------------- */
 
 /*# sourceMappingURL=style.css.map */
