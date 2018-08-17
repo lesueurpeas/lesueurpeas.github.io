@@ -4143,7 +4143,7 @@ margin-right: auto;
 	width: 1000px;
 	margin-left: auto;
 	margin-right: auto;
-	color:#333333;
+	background-color:#333333;
 }
 @media (max-width:767px) {
 	.ctct-inline-form{
