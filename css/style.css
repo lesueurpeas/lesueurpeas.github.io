@@ -3741,16 +3741,22 @@ h6 {
   color: #222222;
 }
 
-.builder_item:active:before {
+.builder_item:hover:before, .builder_item:active:before{
   -ms-transform: scale(1);
   transform: scale(1);
   opacity: 1;
 }
 
+.builder_item:hover .hover{
+  opacity: 1;
+}
 .builder_item:active .hover{
   opacity: 1;
 }
-
+.builder_item:hover .hover h4 {
+  margin-bottom: 18px;
+  opacity: 1;
+}
 .builder_item:active .hover h4 {
   margin-bottom: 18px;
   opacity: 1;
