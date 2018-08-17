@@ -4056,7 +4056,7 @@ list-style-type: none;
 
 .footer_title {
   font-size: 20px;
-  line-height: 15px;
+  line-height: 24px;
   font-weight: 500;
   font-family: "Oswald", sans-serif;
   color: #fff;
@@ -4117,7 +4117,9 @@ list-style-type: none;
   color: #222222;
   background: #5E9753;
 }
-
+.ctct-inline-form {
+	margin-top: 15px;
+}
 /*---------------------------------------------------- */
 
 /*# sourceMappingURL=style.css.map */
