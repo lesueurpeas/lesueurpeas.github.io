@@ -329,7 +329,7 @@ button:focus {
 
 .top_menu .header_social li a {
   font-size: 25px;
-  color: #914035;
+  color: #5E7D53;
   display: inline-block;
   line-height: 45px;
   -webkit-transition: all 300ms linear 0s;
@@ -342,7 +342,7 @@ button:focus {
 }
 
 .top_menu .header_social li:hover a {
-  color: #5E9753;
+  color: #914035;
 }
 
 .top_menu .ac_btn {
@@ -4121,9 +4121,12 @@ margin-right: auto;
 	text-align:center;
 }
 .single-defination2 a {
-	color: #914035;
+	color: #5E9753;
 	font-size: 20px;
 	font-weight: bold;
+}
+.single-defination2 a:hover{
+	color:#914035;
 }
 .footer-social a{
 	font-size: 35px !important;
@@ -4131,7 +4134,7 @@ margin-right: auto;
 	
 }
 .footer-social a:hover {
-  color: #5E9753;
+  color: #914035;
 }
 .ctct-inline-form {
 	margin-top: 50px;
