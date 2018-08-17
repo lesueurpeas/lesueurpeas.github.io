@@ -173,7 +173,6 @@ button:focus {
   padding: 0px;
   display: inline-block;
 }
-
 .header_area .navbar .nav .nav-item .nav-link:after {
   display: none;
 }
@@ -4057,12 +4056,21 @@ list-style-type: none;
 
 .footer_title {
   font-size: 20px;
+  line-height: 15px;
+  font-weight: 500;
+  font-family: "Oswald", sans-serif;
+  color: #fff;
+  margin-bottom: 28px;
+}
+.hours {
+	  font-size: 14px;
   line-height: 24px;
   font-weight: 500;
   font-family: "Oswald", sans-serif;
   color: #fff;
   margin-bottom: 28px;
 }
+
 
 .border_line {
   width: 100%;
