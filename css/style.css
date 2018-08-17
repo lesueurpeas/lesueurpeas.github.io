@@ -3748,11 +3748,11 @@ h6 {
   opacity: 1;
 }
 
-.builder_item:focus .focus {
+.builder_item:focus .hover {
   opacity: 1;
 }
 
-.builder_item:focus .focus h4 {
+.builder_item:focus .hover h4 {
   margin-bottom: 18px;
   opacity: 1;
 }
