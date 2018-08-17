@@ -4034,7 +4034,8 @@ list-style-type: none;
 }
 
 .contact_wd {
-  margin-right: -15px;
+ margin: auto;
+	margin-bottom: 25px;
 }
 
 .contact_wd p {
