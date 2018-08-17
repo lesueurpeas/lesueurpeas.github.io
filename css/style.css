@@ -3708,7 +3708,7 @@ h6 {
   transform: scale(0.95);
 }
 
-.builder_item .focus{
+.builder_item .hover{
   position: absolute;
   top: 50%;
   -webkit-transform: translateY(-50%);
@@ -3722,7 +3722,7 @@ h6 {
   transition: all 300ms linear 0s;
 }
 
-.builder_item .focus h4 {
+.builder_item .hover h4 {
   color: #222222;
   font-size: 20px;
   margin-bottom: 0px;
@@ -3732,7 +3732,7 @@ h6 {
   opacity: 0;
 }
 
-.builder_item .focus p {
+.builder_item .hover p {
   max-width: 470px;
   margin: auto;
   font-size: 14px;
@@ -3741,18 +3741,18 @@ h6 {
   color: #222222;
 }
 
-.builder_item:focus:before{
+.builder_item:hover:before {
   -webkit-transform: scale(1);
   -ms-transform: scale(1);
   transform: scale(1);
   opacity: 1;
 }
 
-.builder_item:focus .hover {
+.builder_item:hover .hover {
   opacity: 1;
 }
 
-.builder_item:focus .hover h4 {
+.builder_item:hover .hover h4 {
   margin-bottom: 18px;
   opacity: 1;
 }
