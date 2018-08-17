@@ -3741,7 +3741,7 @@ h6 {
   color: #222222;
 }
 
-.builder_item:hover:before, .builder_item:focus{
+.builder_item:hover:before, .builder_item:focus, .builder_item:active{
   -webkit-transform: scale(1);
   -ms-transform: scale(1);
   transform: scale(1);
