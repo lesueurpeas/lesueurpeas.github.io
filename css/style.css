@@ -3747,11 +3747,11 @@ h6 {
   opacity: 1;
 }
 
-.builder_item:active {
+.builder_item:active .hover {
   opacity: 1;
 }
 
-.builder_item:active  h4 {
+.builder_item:active .hover h4 {
   margin-bottom: 18px;
   opacity: 1;
 }
