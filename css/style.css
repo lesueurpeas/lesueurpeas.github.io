@@ -3944,9 +3944,25 @@ h6 {
   color: #222222;
   margin-bottom: 22px;
 }
+.about_inner .ab_left_text h5 {
+  font-size: 24px;
+  font-family: "Oswald", sans-serif;
+  color:#777777;
+  margin-bottom: 22px;
+}
 
 .about_inner .ab_left_text p {
-  margin-bottom: 45px;
+  margin-bottom: 2px;
+	font-size: 18px;
+}
+.about_inner .ab_left_text ul{
+	  font-size: 16px;
+  
+  color:#777777;
+	list-style-type: none;
+	float: left;
+	
+	
 }
 
 /* End About Area css
