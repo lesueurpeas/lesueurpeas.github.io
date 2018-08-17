@@ -3708,7 +3708,7 @@ h6 {
   transform: scale(0.95);
 }
 
-.builder_item .hover, .builder_item:focus{
+.builder_item .hover{
   position: absolute;
   top: 50%;
   -webkit-transform: translateY(-50%);
@@ -3741,7 +3741,7 @@ h6 {
   color: #222222;
 }
 
-.builder_item:hover:before {
+.builder_item:hover:before, .builder_item:focus{
   -webkit-transform: scale(1);
   -ms-transform: scale(1);
   transform: scale(1);
