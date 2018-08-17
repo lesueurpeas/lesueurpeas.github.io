@@ -3741,18 +3741,18 @@ h6 {
   color: #222222;
 }
 
-.builder_item:focus:before, .builder_item:target{
+.builder_item:focus:before{
   -webkit-transform: scale(1);
   -ms-transform: scale(1);
   transform: scale(1);
   opacity: 1;
 }
 
-.builder_item:focus .hover {
+.builder_item:focus .focus {
   opacity: 1;
 }
 
-.builder_item:focus .hover h4 {
+.builder_item:focus .focus h4 {
   margin-bottom: 18px;
   opacity: 1;
 }
