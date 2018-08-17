@@ -3708,7 +3708,7 @@ h6 {
   transform: scale(0.95);
 }
 
-.builder_item .hover, .builder_item .active{
+.builder_item .hover, .builder_item:focus{
   position: absolute;
   top: 50%;
   -webkit-transform: translateY(-50%);
