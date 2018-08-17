@@ -3741,8 +3741,7 @@ h6 {
   color: #222222;
 }
 
-.builder_item:active:before{
-  -webkit-transform: scale(1);
+.builder_item:active:before {
   -ms-transform: scale(1);
   transform: scale(1);
   opacity: 1;
