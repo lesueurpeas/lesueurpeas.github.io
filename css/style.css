@@ -4179,14 +4179,20 @@ margin-right: auto;
 .credits a {
 	color:#5E9753;
 }
+.iframe {
+	display: block;
+	width: 900px;
+	height: 640px;
+	margin-left:auto;
+	margin-right: auto;
+}
 .iframe iframe {
 	width: 900px;
 	height: 640px;
-	margin-left: auto;
-	margin-right: auto;
-}
+	
+
 @media (max-width: 767px){
-.iframe iframe{
+.iframe iframe {
 	width: 100%;
 }
 }
