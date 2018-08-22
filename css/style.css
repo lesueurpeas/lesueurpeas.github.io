@@ -4189,13 +4189,18 @@ margin-right: auto;
 .iframe iframe {
 	width: 900px;
 	height: 640px;
-	
+}
 
 @media (max-width: 767px){
-.iframe iframe {
+.iframe  {
 	width: 100%;
 }
+	.iframe iframe {
+		width: 100%;
+	}
 }
+
+
 /*---------------------------------------------------- */
 
 /*# sourceMappingURL=style.css.map */
