@@ -189,10 +189,12 @@
 	.services_item{
 		max-width: 360px;
 		margin: 0px auto 30px;
+		
 	}
 	.builder_inner .builder_item {
 		flex: 0 0 50%;
 		max-width: 50%;
+		
 	}
 	.counter_inner .counter_item {
 		flex: 0 0 33.33%;
