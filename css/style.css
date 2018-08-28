@@ -4252,6 +4252,17 @@ margin-right: auto;
 .credits a {
 	color:#5E9753;
 }
+.credits2{
+	text-align: center;
+	margin-left: 400px;
+	margin-right: 400px;
+	font-size: 25px;
+
+	margin-top: 75px;
+}
+.credits2 a {
+	color:#5E9753;
+}
 .iframe {
 	display: block;
 	width: 900px;
