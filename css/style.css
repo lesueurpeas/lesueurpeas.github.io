@@ -3833,7 +3833,12 @@ h6 {
 	.builder_area {
 		margin-left: 0px;
 		margin-right: 0px;
-		color: white;
+		
+	}
+	
+	.Bclass  {
+		color: white !important;
+		
 	}
 }
 /* End Builder Area css
