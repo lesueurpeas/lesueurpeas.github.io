@@ -3815,6 +3815,7 @@ h6 {
 
 .builder_item:hover:before{
   -webkit-transform: scale(1);
+	-webkit-transform: color( rgb(94, 151, 83, 0.85))
   -ms-transform: scale(1);
   transform: scale(1);
   opacity: 1;
