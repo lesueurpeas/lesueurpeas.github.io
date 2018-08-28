@@ -3830,7 +3830,7 @@ h6 {
 }
 @media (max-width:767px)
 {
-	.builder_item {
+	.builder_area {
 		margin-left: 0px;
 		margin-right: 0px;
 	}
