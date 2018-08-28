@@ -3701,11 +3701,11 @@ background-color:rgb(145, 64, 53, 0.75);
   -webkit-transition: all 300ms linear 0s;
   -o-transition: all 300ms linear 0s;
   transition: all 300ms linear 0s;
-	height: 300px;
+	height:300px;
 	margin-top: -75px;
-	margin-bottom: -175px;
   
 }
+
 .services_item2 img {
   margin-bottom: 15px;
 }
@@ -3713,7 +3713,7 @@ background-color:rgb(145, 64, 53, 0.75);
 .services_item2 h4 {
   font-size: 20px;
   font-family: "Oswald", sans-serif;
-  color: #777777;
+  color: black;
   margin-bottom: 18px;
 }
 .services_item2 h5 {
@@ -3724,18 +3724,17 @@ background-color:rgb(145, 64, 53, 0.75);
 }
 .services_item2 p {
   font-size: 14px;
-	color: #838080;
+	color: #777777;
   font-family: #777777;
   line-height: 24px;
 }
 
-.services_item2:hover {
-  -webkit-box-shadow: 0px 10px 30px 0px rgba(0, 0, 0, 0.1);
-  box-shadow: 0px 10px 30px 0px rgba(0, 0, 0, 0.1);
-}
+
 .services_item2 a{
-	color: #777777;
+	font-weight: 700;
+	color: #213620 !important;
 }
+
 /* End Services Area css
 ============================================================================================ */
 /* Builder Area css
