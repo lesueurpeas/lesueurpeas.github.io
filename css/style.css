@@ -119,7 +119,7 @@ button:focus {
 .main_title {
   text-align: center;
   max-width: 720px;
-  margin: 0px auto 75px;
+  margin: 0px auto 25px;
 }
 .main_title a{
   color:#5E9753;
@@ -128,7 +128,7 @@ button:focus {
   font-family: "Oswald", sans-serif;
   font-size: 36px;
   color: #222222;
-  margin-bottom: 12px;
+  margin-bottom: 0px;
 }
 
 .main_title p {
