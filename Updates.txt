@@ -1,0 +1,10 @@
+Updates:
+- Images to upload:
+	- springintake.png
+	- salespage.png
+- HTML files updated:
+	- index.html
+	- events.html
+	- 
+- CSS files updated:
+	
