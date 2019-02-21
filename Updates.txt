@@ -1,10 +1,15 @@
 Updates:
 - Images to upload:
-	- springintake.png
-	- salespage.png
+	- sales.png
+	- appstorelogo.jpg
+	- googleplay.png
+	- 
 - HTML files updated:
 	- index.html
 	- events.html
-	- 
+	- wausaulogin.html
+	- stevenspointlogin.html
+	- howitworks.html
+	- resalerewards.html
 - CSS files updated:
 	
